@@ -16,7 +16,10 @@ This workflow connects n8n to Reddit’s API to:
 - OAuth2 authentication with Reddit  
 - Configurable subreddit list via environment variables  
 - Built-in rate-limit handling and retry logic  
-- Modular design for easy extension (e.g., alerting, AI analysis)  
+- Modular design for easy extension (e.g., alerting, AI analysis)
+
+- ![Workflow Diagram](assets/1-workflow.png)
+
 
 ### 🚀 Setup & Installation  
 1. **Clone the repo**  
