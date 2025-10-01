@@ -10,7 +10,7 @@
 This workflow connects n8n to Reddit’s API to:  
 - Monitor specified subreddits for new posts  
 - Extract post metadata (title, author, timestamp, content)  
-- Save results to Google Sheets or a database of your choice  
+- Save results to Google Sheets or a database of your choice  (to be done)
 
 ### ✨ Key Features  
 - OAuth2 authentication with Reddit  
