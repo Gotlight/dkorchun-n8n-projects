@@ -18,7 +18,7 @@ This workflow connects n8n to Reddit’s API to:
 - Built-in rate-limit handling and retry logic  
 - Modular design for easy extension (e.g., alerting, AI analysis)
 
-- ![Workflow Diagram](1-workflow.png)
+![Workflow Diagram](1-workflow.png)
 
 ### 📖 Usage  
 - Scraped posts appear in the configured Google Sheet  (to be done)
